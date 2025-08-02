@@ -5,9 +5,9 @@
 ## 🧠 About Me
 
 🎓 CS undergrad with a flair for **full-stack development** and **machine learning**.  
-⚡ Currently building cool things with **React**, **D3.js**, **MongoDB**, and **Flask**.  
+⚡ Currently building cool things with **React**, **Django**, **MongoDB**, and **Flask**.  
 🎯 Passionate about visual storytelling through **data dashboards**, AI-driven apps, and meaningful UI/UX.  
-🧪 Frequently experimenting with MERN stack, ML workflows, and backend architecture.
+🧪 Frequently experimenting with Django, ML workflows, and backend architecture.
 
 🚀 Always on the hunt to turn ideas into deployed, real-world projects.  
 🧩 Learning by doing — and having fun while at it.
