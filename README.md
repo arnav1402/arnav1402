@@ -1,10 +1,9 @@
-# Arnav Ferreira
+## Arnav Ferreira
 
 Artificial Intelligence & Data Science undergraduate with a strong interest in backend engineering, full-stack development, and machine learning systems.
 
 Currently focused on:
 - Backend Development with FastAPI, Django, and Flask
-- Full-Stack Applications using React and PostgreSQL
 - Machine Learning and Deep Learning workflows
 - Data Analytics, Visualization, and Dashboard Development
 - System Design, APIs, and Database Architecture
@@ -20,7 +19,6 @@ Currently focused on:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
